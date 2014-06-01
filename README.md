@@ -1,3 +1,4 @@
+##Introduction
 This is a multi-threaded multi-pool GPU, FPGA and CPU miner with ATI GPU
 monitoring, (over)clocking and fanspeed support for bitcoin and derivative
 coins. Do not use on multiple block chains at the same time!
@@ -27,7 +28,7 @@ irc://irc.freenode.net/cgminer
 
 License: GPLv3.  See COPYING for details.
 
----
+===
 
 EXECUTIVE SUMMARY ON USAGE:
 
